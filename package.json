@@ -1,0 +1,22 @@
+{
+  "name": "iacsd_exam",
+  "version": "1.0.0",
+  "description": "Asdm Lab exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rex-gitcode/Rockwell-Automation.git"
+  },
+  "author": "Anchal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rex-gitcode/Rockwell-Automation/issues"
+  },
+  "homepage": "https://github.com/rex-gitcode/Rockwell-Automation#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
